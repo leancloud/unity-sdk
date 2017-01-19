@@ -34,5 +34,8 @@
 1. Unity SDK 2.0 正式发布
 2. 暂时下架了统计和推送相关的接口，之后的版本会补充
 
+#### 2017-01-19
+1. 支持了`AVObject.FetchAsync` 设置 inlcude keys ，服务端就会一并下发关联的 Pointer 对象的属性，并且反序列化成 `AVObject`。
+
 
 
