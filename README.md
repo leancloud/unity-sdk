@@ -38,4 +38,7 @@
 1. 支持了`AVObject.FetchAsync` 设置 inlcude keys ，服务端就会一并下发关联的 Pointer 对象的属性，并且反序列化成 `AVObject`。
 
 
+#### 2017-03-06
+1. **支持了聊天服务**(内测版)
+
 
